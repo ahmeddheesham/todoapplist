@@ -8,7 +8,7 @@ const App = () => {
 
   const [toDos, setToDos] = useState([])
   const [input, setInput] = useState("")
-  const [updateUI, setUpdateUI] = useState(false)
+  const [updateUI, setUpdateUI] = useState(true)
   const [showPopup, setShowPopup] = useState(false)
   const [popupContent, setPopupContent] = useState({})
 
