@@ -49,7 +49,7 @@ const App = () => {
     <main>
       <div className='container'>
 
-        <h1 className='title'> TO DO APP </h1>
+        <h1 className='title'> ETCH TO DO APP </h1>
 
         <div className='input_holder'>
           <input
